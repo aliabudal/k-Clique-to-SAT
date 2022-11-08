@@ -1,5 +1,5 @@
 
-# k-Clique to SAT Reduction
+# k-Clique to SAT Reduction:
 The objective is to identify a polynomial reduction from the kClique problem,
 to the SAT problem, its implementation in a programming language, and the comparison
 of the running times between a script that solves kClique in exponential time and another that
